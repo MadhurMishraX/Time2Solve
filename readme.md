@@ -38,13 +38,14 @@ The script calculates:
 
 ## ▶️ Sample Run
 
-### **Input**:
 ```text
 Enter the number of questions in each subject separated by spaces: 140 105 175
+--------------------------------------------
 Enter the difficulty of each subject separated by spaces: 1.2 1.0 1.5
-Enter the total study time in hours you have for each day separated by spaces: 3 3 4 3 5 2 3
- ### 📤 Output:
-```text
+--------------------------------------------
+Enter the total study time in hours you have for each day separated by spaces (Day1, Day2, Day3...): 3 3 4 3 5 2 3
+*******************************************
+
 ============== 📊 Weekly Study Plan Breakdown ==============
 📘 Physics   : 6 hr 25 min
 🧪 Chemistry : 4 hr 46 min
